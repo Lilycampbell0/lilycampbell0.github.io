@@ -1,0 +1,4 @@
+https://dev.to/naalaryea/zsh-command-not-found-brew-4697
+
+https://stackoverflow.com/questions/12743928/command-not-found-after-npm-install-in-zsh
+
