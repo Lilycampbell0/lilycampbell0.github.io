@@ -8,8 +8,6 @@ Personal Website
 
 ## Resume
 
-##
-
 
  ## Contact
 lilycampbell0@gmail.com
